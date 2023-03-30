@@ -8,12 +8,12 @@ export default function Nav() {
         <Link href="/">
           <div className={styles.logoContainer}>
             <div className={styles.square}></div>
-            <h1>Juani Gallo</h1>
+            <h1>Alex Bobyr</h1>
           </div>
         </Link>
         <ul className={styles.list}>
           <Link href="/challenges">
-            <li>Challenges</li>
+            <li>Posts</li>
           </Link>
         </ul>
       </div>
