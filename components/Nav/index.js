@@ -12,7 +12,7 @@ export default function Nav() {
           </div>
         </Link>
         <ul className={styles.list}>
-          <Link href="/challenges">
+          <Link href="/posts">
             <li>Posts</li>
           </Link>
         </ul>
