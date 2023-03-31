@@ -5,14 +5,14 @@ export default function Nav() {
   return (
     <nav className={styles.nav}>
       <div className={styles.innerNav}>
-        <Link href="/">
+        <Link href="/about">
           <div className={styles.logoContainer}>
             <div className={styles.square}></div>
             <h1>Alex Bobyr</h1>
           </div>
         </Link>
         <ul className={styles.list}>
-          <Link href="/posts">
+          <Link href="/">
             <li>Posts</li>
           </Link>
         </ul>
