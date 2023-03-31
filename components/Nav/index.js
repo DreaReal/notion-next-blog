@@ -8,7 +8,7 @@ export default function Nav() {
         <Link href="/about">
           <div className={styles.logoContainer}>
             <div className={styles.square}></div>
-            <h1>Alex's harbor</h1>
+            <h1>Dreams harbor</h1>
           </div>
         </Link>
         <ul className={styles.list}>
